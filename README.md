@@ -1,0 +1,2 @@
+# trilium-data
+trilium-data
